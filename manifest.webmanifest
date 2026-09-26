@@ -1,0 +1,10 @@
+{
+  "name":"Nasz Dom – Opłaty",
+  "short_name":"Nasz Dom",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f7fa",
+  "theme_color":"#1976f3",
+  "lang":"pl",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
